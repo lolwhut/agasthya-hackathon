@@ -1,4 +1,6 @@
 // Function to get the required data
+//LOLWHUT 
+
 function getData(){
 	var schools = [
 	{"name":"Gudipalli", "lng":5, "lat":10, "strength":[10,20,30,40,50]},
